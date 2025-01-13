@@ -26,21 +26,23 @@
   - 특정동에 위치한 **지하철역**의 개수
   - 행정구역별 **범죄발생 건수**
   - 특정동에 위치한 **경찰서, 파출소, 지구대, 치안센터**의 개수
-  - 동별 등록인구수
+  - 동별 **등록인구수**
 - 실제 매물(오피스텔)별 안전점수
   - 반경 500m내에 위치한 **CCTV**의 개수
   - 반경 500m내에 위치한 **가로등**의 개수
   - 반경 500m내에 위치한 **초중등학교**의 개수
   - 반경 500m내에 위치한 **버스정류장** 개수
 
+<br><hr>
+
+### 📊분석방법
+- 법정동별 안전도: K-means 클러스터링 모델을 이용하여 상대적으로 안전한 지역과 안전하지 않은 지역으로 이진분류 수행
+- 실제 매물(오피스텔)별 안전점수: 다중회귀분석 모델을 통해 50-100점 범위 내에서 안전점수 출력
 
 <br><hr>
 
+### 🗺️ 최종 결과물
 
 <br><hr>
 
 ### 📚Reference
-- React Package - [https://www.npmjs.com/]
-- Elasticsearch - [https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html?baymax=KR-ES-getting-started&elektra=landing-page]
-- Airflow - [https://airflow.apache.org/docs/apache-airflow/stable/index.html]
-- TmapAPI - [http://tmapapi.sktelecom.com]
