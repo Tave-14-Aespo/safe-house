@@ -59,6 +59,6 @@
 <br><hr>
 
 ### 📚Reference
-- 한국컴퓨터정보학회, 객체 판독키를 적용한 방범 위험도 확률지도 생성기법 연구: (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06528035)
-- 부동산학보 , 주거환경의 안전성 결정요인에 관한 연구*-서울시 공동주택을 중심으로: (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002292257)
-- 한국생태환경건축학회, 범죄발생 위험지역의 공간분포와 도시쇠퇴 특성과의 관계 - GIS기반 공간통계기법을 통한 범죄발생 위험지표를 중심으로: (https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?returnVal=RD_R&dn=410689)
+##### - [한국컴퓨터정보학회, 객체 판독키를 적용한 방범 위험도 확률지도 생성기법 연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06528035)
+###### - [부동산학보 , 주거환경의 안전성 결정요인에 관한 연구-서울시 공동주택을 중심으로](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002292257)
+##### - [한국생태환경건축학회, 범죄발생 위험지역의 공간분포와 도시쇠퇴 특성과의 관계 - GIS기반 공간통계기법을 통한 범죄발생 위험지표를 중심으로](https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?returnVal=RD_R&dn=410689)
